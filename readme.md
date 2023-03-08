@@ -6,6 +6,8 @@
 <img width="300px" src=".github/preview.png"/>
 </p>
 
+Veja o projeto em funcionamento: [CLICANDO AQUI](https://rmpetersen86.github.io/devlinks/)
+
 <p align="center">
 #devLinks é um projeto promovido pela Rocketseat para ensino de tecnologias WEB partindo do absoluto zero e entregando um projeto base bem legal. <br/>
 </p>
