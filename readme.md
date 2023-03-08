@@ -2,9 +2,9 @@
 
 <p align="center">Projeto #Devlink da Rocketseat</p>
 
-<center>
+<p align="center">
 <img width="300px" src=".github/preview.png"/>
-</center>
+</p>
 
 <p align="center">
 #devLinks é um projeto promovido pela Rocketseat para ensino de tecnologias WEB partindo do absoluto zero e entregando um projeto base bem legal. <br/>
